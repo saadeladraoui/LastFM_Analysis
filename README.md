@@ -1,12 +1,14 @@
 # Last FM scrobbles analysis
 
-In depth analysis of my lastfm scrobbles of the lst 6 years to discover my listening habits and trends in the music I listen to. 
+In depth analysis of my lastfm scrobbles of the last 6 years to discover my listening habits and trends in the music I listen to. 
 
-This project is in Python and I use mainly Pandas for data manipulation and Seaborn for visualization.
+This project is in Python and I use mainly Pandas for data manipulation and Seaborn for viaualization.
 
 I use external sources to enrich my scrobbles data such as the Musicbrainz API to get information about artists and Spotify API to get features about songs.
 
-### Steps followed
+You can find the data I worked with in the data directory in the form of pickled pandas dataframes.
+
+### Project parts
 
 I divided the project into 4 differents steps that I put on IPython notebooks.
 
