@@ -2,7 +2,7 @@
 
 In depth analysis of my lastfm scrobbles of the last 6 years to discover my listening habits and trends in the music I listen to. 
 
-This project is in Python and I use mainly Pandas for data manipulation and Seaborn for viaualization.
+This project is in Python and I use mainly Pandas for data manipulation and Seaborn for vizualisation.
 
 I use external sources to enrich my scrobbles data such as the Musicbrainz API to get information about artists and Spotify API to get features about songs.
 
